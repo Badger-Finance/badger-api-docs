@@ -1,0 +1,14 @@
+{
+  "name": "badger-api-docs",
+  "version": "1.0.0",
+  "repository": "git@github.com:Badger-Finance/badger-api-docs.git",
+  "author": "jintao <hellojintao@protonmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  }
+}

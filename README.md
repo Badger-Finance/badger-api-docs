@@ -7,7 +7,7 @@ This repository serves as a Swagger playground for the API.
 
 The playground can be interacted with at:
 
-https://badger-finance.github.io/badger-api-docs/
+https://docs.badger.finance/
 
 The base URL of the API is located at:
 
